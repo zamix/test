@@ -1,7 +1,7 @@
 <?php
 define('DB_NAME', 'your_database_name');
 define('DB_USER', 'your_database_username');
-define('DB_PASSWORD', 'your_database_password');
+define('DB_PASSWORD', '12345667776892943291098410');
 define('DB_HOST', 'your_database_host');
 
 define('AUTH_KEY', 'your_auth_key');
